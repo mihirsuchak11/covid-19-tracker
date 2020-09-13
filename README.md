@@ -9,7 +9,7 @@ Hey there, this is Mihir Suchak.
 
 ![All the Projects under and org](Screenshot-1.jpg)
 
-### [Live Site](https://realtime-chat-application.netlify.com)
+### [Live Site](https://covid-19-tracker-seven.vercel.app/)
 
 ##### Introduction:
 
