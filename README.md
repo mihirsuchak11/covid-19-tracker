@@ -1,4 +1,4 @@
-# COVID-19 Tracker - by Mihir Suchak
+# COVID-19 Tracker - by Mihir Suchak.
 
 - Project: _Covid-19 tracker._
 - Language/Frameworks: _Typescript(with React) + CSS_

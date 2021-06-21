@@ -27,6 +27,7 @@ const App: React.FC = (props: Props) => {
 
   return (
     <div className={styles.container}>
+      <h1>Development Environment</h1>
       <img className={styles.image} src={coronaImage} alt="COVID-19" />
       <Cards data={data} />
       <CountryPicker handleCountryChange={handleCountryChange} />
